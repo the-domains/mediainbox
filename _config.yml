@@ -1,0 +1,14 @@
+layout_spectrum: 0.930202598683536
+typography_spectrum: 0.5619288254529238
+color:
+  brandStrength: 0.676506276242435
+  lightness: 0.420977458357811
+  saturation: 0.36052025365643203
+  rhythmicContrast: 0.28076323540881276
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: MediaInbox
