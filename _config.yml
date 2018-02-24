@@ -20,3 +20,7 @@ author:
   email: alejandro@mediainbox.net
 title: MediaInbox
 description: Tech Startup to bring radio to 21th century
+purpose:
+  - type: contact
+    url: 'mailto:alejandro@mediainbox.net'
+    label: Contact us!
