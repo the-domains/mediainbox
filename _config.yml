@@ -1,16 +1,16 @@
-layout_spectrum: 0.930202598683536
-typography_spectrum: 0.5619288254529238
+layout_spectrum: 0.04596321730800711
+typography_spectrum: 0.10903549931694449
 color:
-  brandStrength: 0.676506276242435
-  lightness: 0.420977458357811
-  saturation: 0.36052025365643203
-  rhythmicContrast: 0.28076323540881276
+  brandStrength: 0.8850839821365432
+  lightness: 0.16056243797137154
+  saturation: 0.024088473822091623
+  rhythmicContrast: 0.16030444691298842
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
     - '#FFFFFF'
-    - '#FF9800'
+    - '#0862B2'
+    - '#FF0002'
+    - '#FF5F67'
+    - '#ADADAD'
 name: MediaInbox
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -41,7 +41,6 @@ content:
         it's Daft Punk's End of the Line, remixed by Distrix. The wobbles and
         bass in this gives a better effect overall. For an Open Brief project at
         University.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=EHSYKwFDCEU&feature=applinks'
