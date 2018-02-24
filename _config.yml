@@ -12,3 +12,9 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: MediaInbox
+content: []
+github: true
+url: 'https://mediainbox.tech'
+author:
+  name: Mediainbox
+  email: alejandro@mediainbox.net
